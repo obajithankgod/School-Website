@@ -19,7 +19,7 @@
      bottom: 10rem;
  }
  .aside__image {
-     width: 20rem;
+     width: 15rem;
      margin-bottom: 2rem;
  }
  .contact__aside h2 {
@@ -128,6 +128,9 @@
          margin-top: 0;
          padding: 0;
      }
+     .aside__image {
+         margin: auto;
+     } 
       .contact__form {
           margin: 0 1.5rem 3rem;
       }
