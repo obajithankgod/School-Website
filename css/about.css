@@ -148,7 +148,7 @@
 /* ========  Media Queries for Mobile Phone Screen  ========== */
 
 @media screen and (max-width: 600px) {
-    .achievement__card {
+    .achievements__cards {
         grid-template-columns: 1fr 1fr;
         gap: 0.7rem;
     }
