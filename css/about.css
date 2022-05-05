@@ -9,6 +9,9 @@
 .about__achievement__right > p {
     margin: 1.6rem 0 2.5rem;
 }
+.about__achievement__right {
+    margin-right: 4rem;
+}
 .achievements__cards {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -134,6 +137,9 @@
     }
     .team__member {
         padding: 1rem;
+    }
+    .about__achievement__right {
+        margin: auto;
     }
 }
 
